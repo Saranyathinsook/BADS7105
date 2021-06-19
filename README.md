@@ -14,7 +14,7 @@ Customer Relationship Management (CRM) Analytics and Intelligence
 ----------------------------
 In class :
 
-Topic 1Customer Analytics Overview
+Topic 1 Customer Analytics Overview
 
 Topic 2 Consumer Behaviors
 
