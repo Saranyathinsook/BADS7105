@@ -1,4 +1,5 @@
 #Job To Be Done!
+
 1.To create a new job and get the interesting from customer behavior activities in order to understand what motivates people for the action.
 
 2.Create the topic "Job Statement" in 3 parts (Verb, Object of control and Context).
